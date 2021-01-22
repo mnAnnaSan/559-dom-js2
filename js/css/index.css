@@ -1,0 +1,7 @@
+.navbar .hidden {
+    display: none;
+}
+
+.navbar .burger-icon {
+    cursor: pointer;
+}
